@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746792927649",
+    "project_id": "smartfashionapp-f3930",
+    "storage_bucket": "smartfashionapp-f3930.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746792927649:android:1f1659b7551d102ba4cbe0",
+        "android_client_info": {
+          "package_name": "com.example.smartfashion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjbz6r4PVWQQ4aY91_4f_kF2zujCeY4FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746792927649:android:2a983f0f0f026629a4cbe0",
+        "android_client_info": {
+          "package_name": "com.example.smartfashionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjbz6r4PVWQQ4aY91_4f_kF2zujCeY4FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
